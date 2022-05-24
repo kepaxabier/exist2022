@@ -10,3 +10,5 @@ https://drive.google.com/file/d/1-yuhnO7q6hTUsLtkGdIUrNr1KSJwDgEQ/view?usp=shari
 
 * task2enmodel.pt es un modelo capaz de clasificar tweets en Inglés a 6 niveles. Este modelo se puede descargar de: 
 https://drive.google.com/file/d/1--ZTHgyq9yalGqB57JnKMVPAzlJeWGtv/view?usp=sharing
+
+Se puede ejecutar con Google Colab ejecitando multiaztertest_exist2022.ipynb
